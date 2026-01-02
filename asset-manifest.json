@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tie-laskuri/static/css/main.8eaec3d3.css",
-    "main.js": "/tie-laskuri/static/js/main.2d28cf5e.js",
+    "main.js": "/tie-laskuri/static/js/main.4083126f.js",
     "static/js/977.fc96f49f.chunk.js": "/tie-laskuri/static/js/977.fc96f49f.chunk.js",
     "static/js/455.975b4874.chunk.js": "/tie-laskuri/static/js/455.975b4874.chunk.js",
     "index.html": "/tie-laskuri/index.html",
     "main.8eaec3d3.css.map": "/tie-laskuri/static/css/main.8eaec3d3.css.map",
-    "main.2d28cf5e.js.map": "/tie-laskuri/static/js/main.2d28cf5e.js.map",
+    "main.4083126f.js.map": "/tie-laskuri/static/js/main.4083126f.js.map",
     "977.fc96f49f.chunk.js.map": "/tie-laskuri/static/js/977.fc96f49f.chunk.js.map",
     "455.975b4874.chunk.js.map": "/tie-laskuri/static/js/455.975b4874.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eaec3d3.css",
-    "static/js/main.2d28cf5e.js"
+    "static/js/main.4083126f.js"
   ]
 }
