@@ -1,0 +1,68 @@
+body {
+  background: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input, select {
+  width: 100%;
+  padding: 6px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 60px;
+}
+
+table {
+  width: 100%;
+  margin: 20px 0;
+}
+
+td {
+  padding: 6px 0;
+}
+
+.total td {
+  border-top: 2px solid #000;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+.note {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
