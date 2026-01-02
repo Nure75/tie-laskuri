@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tie-laskuri/static/css/main.cc0bbbee.css",
-    "main.js": "/tie-laskuri/static/js/main.22ede472.js",
+    "main.css": "/tie-laskuri/static/css/main.09f20339.css",
+    "main.js": "/tie-laskuri/static/js/main.a11602b5.js",
     "static/js/977.fc96f49f.chunk.js": "/tie-laskuri/static/js/977.fc96f49f.chunk.js",
     "static/js/455.975b4874.chunk.js": "/tie-laskuri/static/js/455.975b4874.chunk.js",
     "index.html": "/tie-laskuri/index.html",
-    "main.cc0bbbee.css.map": "/tie-laskuri/static/css/main.cc0bbbee.css.map",
-    "main.22ede472.js.map": "/tie-laskuri/static/js/main.22ede472.js.map",
+    "main.09f20339.css.map": "/tie-laskuri/static/css/main.09f20339.css.map",
+    "main.a11602b5.js.map": "/tie-laskuri/static/js/main.a11602b5.js.map",
     "977.fc96f49f.chunk.js.map": "/tie-laskuri/static/js/977.fc96f49f.chunk.js.map",
     "455.975b4874.chunk.js.map": "/tie-laskuri/static/js/455.975b4874.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc0bbbee.css",
-    "static/js/main.22ede472.js"
+    "static/css/main.09f20339.css",
+    "static/js/main.a11602b5.js"
   ]
 }
