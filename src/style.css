@@ -11,33 +11,36 @@ body {
 
 .card {
   background: #fff;
-  padding: 20px;
+  padding: 25px;
   margin-bottom: 20px;
-}
-
-label {
-  display: block;
-  margin-bottom: 10px;
-}
-
-input, select {
-  width: 100%;
-  padding: 6px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .logo {
   height: 60px;
 }
 
+label {
+  display: block;
+  margin-bottom: 12px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+}
+
 table {
   width: 100%;
-  margin: 20px 0;
+  margin-top: 10px;
+  border-collapse: collapse;
 }
 
 td {
@@ -46,6 +49,7 @@ td {
 
 .total td {
   border-top: 2px solid #000;
+  font-weight: bold;
 }
 
 ul {
@@ -64,5 +68,7 @@ ul {
 
 button {
   padding: 10px 20px;
-  font-size: 16px;
+  margin-right: 10px;
+  font-size: 15px;
+  cursor: pointer;
 }
